@@ -1,3 +1,7 @@
+This repository is retired.
+New developments happen in the
+[mathosphere.](https://github.com/TU-Berlin/mathosphere/tree/master/mlp)
+
 Mathematical Language Processing
 ================================
 [![Build Status](https://travis-ci.org/TU-Berlin/project-mlp.svg?branch=master)](https://travis-ci.org/TU-Berlin/project-mlp)
