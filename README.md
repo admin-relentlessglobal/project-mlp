@@ -20,7 +20,7 @@ If uncertain, the `english-left3words-distsim.tagger` model is a good starting p
 
 Tested with http://nlp.stanford.edu/software/stanford-postagger-2012-11-11.zip ... the most recent version 
 http://nlp.stanford.edu/software/stanford-postagger-2014-01-04.zip
-is currently beeing tested.
+is currently beeeing tested.
 
 ## Log
 
